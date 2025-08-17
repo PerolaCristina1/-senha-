@@ -149,7 +149,6 @@ body{
         flex-direction: row;
     }
 }
-
 #copiar-senha {
     background-color: var(--fundo-texto);
     color: var(--branco);
