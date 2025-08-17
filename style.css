@@ -149,3 +149,17 @@ body{
         flex-direction: row;
     }
 }
+
+#copiar-senha {
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 12px;
+}
+
+#copiar-senha:hover {
+    background-color: var(--borda);
+}
